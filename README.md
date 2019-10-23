@@ -6,4 +6,6 @@ Our entire project is within the Chinese Checkers Board folder. The other files 
 
 If opening with Unity, this folder is the Unity Project. When run in Unity, the MainMenu scene is the starting point of the applet. The Dec12Scene scene is the scene that contains all the game of Chinese Checkers itself. All the code exists in Chinese Checkers Board/Assets/Scripts, as .cs files.
 
+ChineseCheckersMac.app is the complete game that runs on Mac.
+
 We affirm that we have adhered to the Honor Code on this Assignment.
