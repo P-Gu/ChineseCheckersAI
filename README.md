@@ -2,10 +2,10 @@
 CS241 Final Project (2018)
 Authors: Liam Axon, Katja Zoner, Peng Gu
 
-Our entire project is within the Chinese Checkers Board folder. The other files are previous stages or part of our project.
+Our final version project is contained within "Chinese_Checkers_Board" folder. Please navigate to this folder when opening the project in Unity.
+"backupFiles" folder contains previous stages of our project.
 
-If opening with Unity, this folder is the Unity Project. When run in Unity, the MainMenu scene is the starting point of the applet. The Dec12Scene scene is the scene that contains all the game of Chinese Checkers itself. All the code exists in Chinese Checkers Board/Assets/Scripts, as .cs files.
+In Unity editor, the MainMenu scene is the starting point of the applet. The Dec12Scene scene contains the actual Chinese Checkers game. Please check this path: Chinese_Checkers_Board/Assets/Scripts for all scripts, which all have .cs extension.
 
-ChineseCheckersMac.app is the complete game that runs on Mac.
-
-We affirm that we have adhered to the Honor Code on this Assignment.
+ChineseCheckersMac.app is the built game that runs on Mac.
+When you first enter the main menu, you can adjust camera rotation, AI difficulty and some other settings inside "Settings" menu. Click "PLAY!" to select game mode. After you enter the actual game scene, please click the question mark button for detailed descriptions about game rules.
